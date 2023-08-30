@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm WapPva Store</h1>
+<h1 align="center">Hello 👋, This is WapPva Project Store</h1>
 <h3 align="center">Welcome to WapPva Store - a unique application that brings you the experience of downloading paid apps without any cost. Developed by two passionate individuals, DunkeyyFong and WeansHHN</h3>
 
 <img alt="image" src="https://github.com/wappva/wappva/blob/main/z4649783107188_751d22d2ea90e722e0b07e728ff2162c.jpg" />
